@@ -72,7 +72,7 @@ spring.h2.console.path=/h2-console
 
 **API Endpoints
 Create Training Center**
-
+```sh
 URL: /api/trains
 Method: POST
 Request Body:
@@ -93,7 +93,7 @@ Request Body:
   "contactEmail": "contact2@example.com",
   "contactPhone": "0987654321"
 }
-
+```
 ![image](https://github.com/shubhankar132/traini8/assets/94240750/34195a9e-4af1-4d47-947a-07865464104f)
 
 
@@ -101,7 +101,7 @@ Request Body:
 URL: /api/trains
 Method: POST
 Request Body:
-
+```sh
 {
   "centerName": "XYZ",
   "centerCode": "1234",
@@ -120,7 +120,7 @@ Request Body:
   "contactPhone": "0987654321"
 }
 ![image](https://github.com/shubhankar132/traini8/assets/94240750/06e085ef-b092-4ca8-a10a-18daf827fb54)
-
+```
 **Get All Training Centers
 
 URL: /api/trains
