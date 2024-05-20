@@ -129,6 +129,7 @@ Method: GET**
 ![image](https://github.com/shubhankar132/traini8/assets/94240750/3ca4c6f3-011d-4a58-9aab-669860c478f4)
 
 
+
 ### H2 Database Console
 The H2 database console can be accessed at: http://localhost:8080/h2-console
 
@@ -137,11 +138,13 @@ The H2 database console can be accessed at: http://localhost:8080/h2-console
 Notice that the "CENTER_CODE" in both of these records are different
 
 
+
 ### Exception Handling
 
 The project uses a global exception handler to manage validation and database errors.
 
 ![image](https://github.com/shubhankar132/traini8/assets/94240750/fd3b91a1-ff8e-4d68-98c6-a7f5bee17838)
+
 
 
 ### Contributing
