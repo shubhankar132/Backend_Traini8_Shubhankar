@@ -6,11 +6,11 @@ GET and POST request, Validation and Exception Handling have been covered in thi
 
 **Project Structure**
 
-com.restapi.springboot - Main application package
-com.restapi.springboot.entities - Contains the Trains and Address entity classes
-com.restapi.springboot.exceptions - Contains the GlobalExceptionHandler class for custom exception handling
-com.restapi.springboot.controllers - Contains REST controllers
-com.restapi.springboot.repositories - Contains Spring Data JPA repositories
+- com.restapi.springboot - Main application package
+- com.restapi.springboot.entities - Contains the Trains and Address entity classes
+- com.restapi.springboot.exceptions - Contains the GlobalExceptionHandler class for custom exception handling
+- com.restapi.springboot.controllers - Contains REST controllers
+- com.restapi.springboot.repositories - Contains Spring Data JPA repositories
 
 
 ## Features
