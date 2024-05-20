@@ -70,8 +70,8 @@ spring.h2.console.path=/h2-console
 ```
 
 
-**API Endpoints
-Create Training Center**
+### API Endpoints
+Create Training Center
 ```sh
 URL: /api/trains
 Method: POST
@@ -121,14 +121,14 @@ Request Body:
 }
 ![image](https://github.com/shubhankar132/traini8/assets/94240750/06e085ef-b092-4ca8-a10a-18daf827fb54)
 ```
-**Get All Training Centers
+### Get All Training Centers
 
 URL: /api/trains
 Method: GET**
 ![image](https://github.com/shubhankar132/traini8/assets/94240750/3ca4c6f3-011d-4a58-9aab-669860c478f4)
 
 
-**H2 Database Console**
+### H2 Database Console
 The H2 database console can be accessed at: http://localhost:8080/h2-console
 
 ![image](https://github.com/shubhankar132/traini8/assets/94240750/f98b0aaa-8a5e-4f9c-ac53-b3c52a3d2ea9)
